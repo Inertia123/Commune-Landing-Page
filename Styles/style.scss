@@ -1,0 +1,15 @@
+$Violet: #372865;
+$Gray: #545454;
+
+@import 'nav';
+@import 'hero';
+
+*,::after,::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family: 'Nunito', sans-serif;
+    font-size: 10px;
+}
